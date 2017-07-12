@@ -14,6 +14,8 @@ Our team ended creating a simple yet challenging game. There's two actions the p
 
 Divekick was judged by several professional video game developers, and most of the criticism came from the lack enemy variation, unpolished graphics and little end game challenge.
 
+However, we received endless praise for a light-hearted game that presents players with simple, yet fun and cohesive game mechanics. 
+
 There's plenty of room for improvement, but for now this project is closed for modification. 
 
 
