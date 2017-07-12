@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 3fd0abf17a2a44f53bdd64d4632fc8a2
+timeCreated: 1479163749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Broken-Car-ProtoSprites_0
+    21300002: Broken-Car-ProtoSprites_1
+    21300004: Broken-Car-ProtoSprites_2
+    21300006: Broken-Car-ProtoSprites_3
+    21300008: Broken-Car-ProtoSprites_4
+    21300010: Broken-Car-ProtoSprites_5
+    21300012: Broken-Car-ProtoSprites_6
+    21300014: Broken-Car-ProtoSprites_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 530
+        width: 344
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 359
+        width: 335
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 356
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 363
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 530
+        width: 420
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 372
+        width: 431
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 221
+        width: 451
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Broken-Car-ProtoSprites_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 29
+        width: 491
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

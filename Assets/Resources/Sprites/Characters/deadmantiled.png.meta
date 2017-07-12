@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: ebc6c4a1fa3b940aaa66547906f53668
+timeCreated: 1479161318
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deadmantiled_0
+    21300002: deadmantiled_1
+    21300004: deadmantiled_2
+    21300006: deadmantiled_3
+    21300008: deadmantiled_4
+    21300010: deadmantiled_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deadmantiled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -35}
+        - {x: 17, y: -18}
+        - {x: 9, y: -13}
+        - {x: 4, y: -11}
+        - {x: 5, y: -11}
+        - {x: 18, y: -17}
+        - {x: 21, y: -17}
+        - {x: 27, y: -14}
+        - {x: 39, y: 0}
+        - {x: 35, y: 15}
+        - {x: 24, y: 62}
+        - {x: -8, y: 62}
+        - {x: -29, y: 13}
+        - {x: -29, y: -38}
+        - {x: -21, y: -64}
+        - {x: 22, y: -64}
+        - {x: 39, y: -51}
+        - {x: 43, y: -47}
+        - {x: 43, y: -41}
+    - name: deadmantiled_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 60}
+        - {x: -41, y: 60}
+        - {x: -45, y: 55}
+        - {x: -45, y: 12}
+        - {x: -42, y: -28}
+        - {x: -7, y: -64}
+        - {x: 27, y: -64}
+        - {x: 36, y: -49}
+        - {x: 48, y: -28}
+        - {x: 48, y: 27}
+    - name: deadmantiled_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 6}
+        - {x: 11, y: 26}
+        - {x: -16, y: 34}
+        - {x: -18, y: 27}
+        - {x: -22, y: 15}
+        - {x: -34, y: 27}
+        - {x: -52, y: 35}
+        - {x: -64, y: 35}
+        - {x: -64, y: -6}
+        - {x: -35, y: -47}
+        - {x: 54, y: -47}
+        - {x: 64, y: -18}
+        - {x: 64, y: 9}
+        - {x: 39, y: 12}
+    - name: deadmantiled_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 15}
+        - {x: -62, y: 10}
+        - {x: -64, y: 7}
+        - {x: -64, y: -20}
+        - {x: -15, y: -60}
+        - {x: 5, y: -60}
+        - {x: 59, y: -50}
+        - {x: 60, y: -49}
+        - {x: 60, y: 14}
+        - {x: 58, y: 15}
+    - name: deadmantiled_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -4}
+        - {x: -54, y: -32}
+        - {x: -23, y: -64}
+        - {x: 60, y: -64}
+        - {x: 60, y: -27}
+        - {x: -31, y: -4}
+    - name: deadmantiled_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -30}
+        - {x: -64, y: -36}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

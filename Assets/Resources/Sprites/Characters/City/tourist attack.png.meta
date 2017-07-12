@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 88bc44f1e6e1a274e8cbec3c645ab59e
+timeCreated: 1480288461
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tourist attack_0
+    21300002: tourist attack_1
+    21300004: tourist attack_2
+    21300006: tourist attack_3
+    21300008: tourist attack_4
+    21300010: tourist attack_6
+    21300012: tourist attack_7
+    21300014: tourist attack_8
+    21300016: tourist attack_9
+    21300018: tourist attack_10
+    21300020: tourist attack_11
+    21300022: tourist attack_12
+    21300024: tourist attack_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 190
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tourist attack_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 948
+        width: 131
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 205.5}
+        - {x: -34.5, y: 173.5}
+        - {x: -65.5, y: 85.5}
+        - {x: -65.5, y: -48.5}
+        - {x: -60.5, y: -163.5}
+        - {x: -19.5, y: -205.5}
+        - {x: 65.5, y: -205.5}
+        - {x: 65.5, y: 199.5}
+        - {x: 43.5, y: 205.5}
+    - name: tourist attack_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 952
+        width: 144
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -14}
+        - {x: 16, y: 92}
+        - {x: 49, y: 186}
+        - {x: 35, y: 206}
+        - {x: -29, y: 206}
+        - {x: -66, y: 193}
+        - {x: -72, y: 94}
+        - {x: -72, y: -60}
+        - {x: -35, y: -206}
+        - {x: 49, y: -206}
+        - {x: 58, y: -181}
+        - {x: 72, y: -84}
+        - {x: 72, y: -51}
+    - name: tourist attack_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 945
+        width: 150
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 190}
+        - {x: 24, y: 209}
+        - {x: -20, y: 209}
+        - {x: -38, y: 177}
+        - {x: -75, y: 57}
+        - {x: -75, y: -194}
+        - {x: -45, y: -209}
+        - {x: 15, y: -209}
+        - {x: 75, y: -184}
+        - {x: 75, y: 85}
+        - {x: 70, y: 85}
+    - name: tourist attack_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 945
+        width: 170
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 68.5}
+        - {x: 40, y: 68.5}
+        - {x: 17, y: 40.5}
+        - {x: 67, y: 195.5}
+        - {x: 40, y: 208.5}
+        - {x: -23, y: 208.5}
+        - {x: -81, y: 58.5}
+        - {x: -85, y: 53.5}
+        - {x: -85, y: -208.5}
+        - {x: -26, y: -208.5}
+        - {x: -21, y: -194.5}
+        - {x: 85, y: -129.5}
+        - {x: 85, y: 45.5}
+    - name: tourist attack_4
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 944
+        width: 167
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 72.5}
+        - {x: 39.5, y: 80.5}
+        - {x: 64.5, y: 181.5}
+        - {x: 44.5, y: 208.5}
+        - {x: -7.5, y: 208.5}
+        - {x: -39.5, y: 195.5}
+        - {x: -75.5, y: 57.5}
+        - {x: -77.5, y: -0.5}
+        - {x: -83.5, y: -101.5}
+        - {x: -83.5, y: -190.5}
+        - {x: -79.5, y: -196.5}
+        - {x: -51.5, y: -208.5}
+        - {x: -11.5, y: -208.5}
+        - {x: 41.5, y: -138.5}
+        - {x: 82.5, y: -100.5}
+        - {x: 83.5, y: -81.5}
+    - name: tourist attack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 170
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -91.5}
+        - {x: 5, y: -80.5}
+        - {x: 7, y: -67.5}
+        - {x: 7, y: -63.5}
+        - {x: 15, y: -63.5}
+        - {x: 13, y: -63.5}
+        - {x: 8, y: -68.5}
+        - {x: 6, y: -74.5}
+        - {x: 15, y: -97.5}
+        - {x: 73, y: -135.5}
+        - {x: 85, y: -71.5}
+        - {x: 85, y: 61.5}
+        - {x: 61, y: 80.5}
+        - {x: 54, y: 80.5}
+        - {x: 75, y: 176.5}
+        - {x: 34, y: 208.5}
+        - {x: -6, y: 208.5}
+        - {x: -17, y: 197.5}
+        - {x: -26, y: 186.5}
+        - {x: -50, y: 129.5}
+        - {x: -77, y: 58.5}
+        - {x: -77, y: -20.5}
+        - {x: -85, y: -127.5}
+        - {x: -85, y: -185.5}
+        - {x: -51, y: -208.5}
+        - {x: -28, y: -208.5}
+        - {x: -25, y: -206.5}
+        - {x: -24, y: -195.5}
+        - {x: -35, y: -178.5}
+    - name: tourist attack_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 205
+        width: 169
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: -83.5}
+        - {x: 84.5, y: 68.5}
+        - {x: 41.5, y: 100.5}
+        - {x: 67.5, y: 191.5}
+        - {x: 36.5, y: 208.5}
+        - {x: -17.5, y: 208.5}
+        - {x: -84.5, y: 83.5}
+        - {x: -84.5, y: -204.5}
+        - {x: -55.5, y: -208.5}
+        - {x: -25.5, y: -208.5}
+        - {x: -19.5, y: -197.5}
+        - {x: 7.5, y: -95.5}
+        - {x: 69.5, y: -137.5}
+    - name: tourist attack_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 205
+        width: 144
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -38.5}
+        - {x: 24, y: 65.5}
+        - {x: 54, y: 178.5}
+        - {x: 42, y: 201.5}
+        - {x: 35, y: 206.5}
+        - {x: -53, y: 206.5}
+        - {x: -72, y: 138.5}
+        - {x: -72, y: -123.5}
+        - {x: -25, y: -206.5}
+        - {x: 48, y: -206.5}
+        - {x: 58, y: -180.5}
+        - {x: 53, y: -172.5}
+        - {x: 72, y: -85.5}
+    - name: tourist attack_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 202
+        width: 126
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 206}
+        - {x: -31, y: 206}
+        - {x: -63, y: 118}
+        - {x: -63, y: -35}
+        - {x: -31, y: -178}
+        - {x: -5, y: -206}
+        - {x: 63, y: -206}
+        - {x: 63, y: 69}
+        - {x: 59, y: 186}
+    - name: tourist attack_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 206
+        width: 115
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 66}
+        - {x: 57.5, y: 118}
+        - {x: 57.5, y: 200}
+        - {x: 54.5, y: 203}
+        - {x: 45.5, y: 207}
+        - {x: -21.5, y: 207}
+        - {x: -57.5, y: 114}
+        - {x: -57.5, y: -82}
+        - {x: -53.5, y: -100}
+        - {x: -41.5, y: -207}
+        - {x: 57.5, y: -207}
+        - {x: 57.5, y: -134}
+        - {x: 48.5, y: -89}
+    - name: tourist attack_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 206
+        width: 133
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 122.5}
+        - {x: 66.5, y: 149.5}
+        - {x: 66.5, y: 204.5}
+        - {x: 65.5, y: 206.5}
+        - {x: -7.5, y: 206.5}
+        - {x: -29.5, y: 199.5}
+        - {x: -66.5, y: 79.5}
+        - {x: -66.5, y: -158.5}
+        - {x: -63.5, y: -206.5}
+        - {x: 53.5, y: -206.5}
+        - {x: 56.5, y: -198.5}
+        - {x: 40.5, y: -124.5}
+        - {x: 31.5, y: 23.5}
+    - name: tourist attack_13
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 204
+        width: 165
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 179.5}
+        - {x: 74.5, y: 197.5}
+        - {x: 54.5, y: 202.5}
+        - {x: 16.5, y: 202.5}
+        - {x: 4.5, y: 195.5}
+        - {x: -82.5, y: 77.5}
+        - {x: -82.5, y: -143.5}
+        - {x: -70.5, y: -195.5}
+        - {x: -63.5, y: -202.5}
+        - {x: 36.5, y: -202.5}
+        - {x: 36.5, y: -182.5}
+        - {x: 30.5, y: 80.5}
+        - {x: 82.5, y: 147.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

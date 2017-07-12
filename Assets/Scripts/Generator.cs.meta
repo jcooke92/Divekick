@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44aae80d1bd2b8046b57928782116ad7
+timeCreated: 1480454712
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chunk: {instanceID: 0}
+  - player: {instanceID: 0}
+  - backgroundA: {fileID: 1000011842019426, guid: 720ad39d5aa514f3ab76829b22f24f28,
+      type: 2}
+  - backgroundB: {instanceID: 0}
+  - time: {instanceID: 0}
+  - pedestrian: {instanceID: 0}
+  - car: {instanceID: 0}
+  - boundaryRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: c7f0ed3711600934e8a25ea56597ee47
+timeCreated: 1479146978
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kickingmantiled_hitonly_0
+    21300002: kickingmantiled_hitonly_1
+    21300004: kickingmantiled_hitonly_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kickingmantiled_hitonly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118.333336
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 62}
+        - {x: -59.5, y: 58}
+        - {x: -59.5, y: 3}
+        - {x: -1.5, y: -62}
+        - {x: 38.5, y: -62}
+        - {x: 39.5, y: -60}
+        - {x: 39.5, y: -14}
+        - {x: -12.5, y: 62}
+    - name: kickingmantiled_hitonly_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118.333336
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 62}
+        - {x: -48.5, y: 62}
+        - {x: -50.5, y: 61}
+        - {x: -50.5, y: 25}
+        - {x: -33.5, y: -27}
+        - {x: 28.5, y: -62}
+        - {x: 50.5, y: -62}
+        - {x: 50.5, y: 13}
+        - {x: 40.5, y: 44}
+    - name: kickingmantiled_hitonly_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118.333336
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -30}
+        - {x: 37.5, y: -33}
+        - {x: 38.5, y: -19}
+        - {x: 27.5, y: 19}
+        - {x: -5.5, y: 62}
+        - {x: -41.5, y: 62}
+        - {x: -41.5, y: 11}
+        - {x: -33.5, y: -23}
+        - {x: 28.5, y: -62}
+        - {x: 59.5, y: -62}
+        - {x: 59.5, y: -34}
+        - {x: 52.5, y: -30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

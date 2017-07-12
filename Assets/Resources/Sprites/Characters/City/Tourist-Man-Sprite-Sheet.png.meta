@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: b77bcbdaab94ff64ea76ae9166af1763
+timeCreated: 1477862813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tourist-Man-Sprite-Sheet_0
+    21300002: Tourist-Man-Sprite-Sheet_1
+    21300004: Tourist-Man-Sprite-Sheet_2
+    21300006: Tourist-Man-Sprite-Sheet_3
+    21300008: Tourist-Man-Sprite-Sheet_4
+    21300010: Tourist-Man-Sprite-Sheet_5
+    21300012: Tourist-Man-Sprite-Sheet_6
+    21300014: Tourist-Man-Sprite-Sheet_7
+    21300016: Tourist-Man-Sprite-Sheet_8
+    21300018: Tourist-Man-Sprite-Sheet_9
+    21300020: Tourist-Man-Sprite-Sheet_10
+    21300022: Tourist-Man-Sprite-Sheet_11
+    21300024: Tourist-Man-Sprite-Sheet_12
+    21300026: Tourist-Man-Sprite-Sheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 95
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 486
+        width: 73
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 489
+        width: 63
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 491
+        width: 69
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 492
+        width: 92
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 494
+        width: 80
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 497
+        width: 71
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 495
+        width: 65
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 256
+        width: 65
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 253
+        width: 58
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 249
+        width: 83
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 247
+        width: 100
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 246
+        width: 80
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 250
+        width: 75
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tourist-Man-Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 71
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

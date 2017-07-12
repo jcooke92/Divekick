@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9cfe7e24d15522147a0a90640e72afa0
+timeCreated: 1480566367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: combo2_0
+    21300002: combo2_2
+    21300004: combo2_4
+    21300006: combo2_13
+    21300008: combo2_17
+    21300010: combo2_24
+    21300012: combo2_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: combo2_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 497
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: combo2_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 491
+        width: 162
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: combo2_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 485
+        width: 241
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: combo2_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 240
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 15.5}
+        - {x: -3, y: 15.5}
+        - {x: -9, y: 7.5}
+        - {x: -9, y: -8.5}
+        - {x: 0, y: -16.5}
+        - {x: 86, y: -23.5}
+        - {x: 120, y: -23.5}
+        - {x: 120, y: 5.5}
+        - {x: 114, y: 8.5}
+      - - {x: -120, y: 23.5}
+        - {x: -120, y: -11.5}
+        - {x: -107, y: -12.5}
+        - {x: -15, y: -12.5}
+        - {x: -15, y: 23.5}
+    - name: combo2_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 261
+        width: 240
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: combo2_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 261
+        width: 240
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 12}
+        - {x: -61, y: 12}
+        - {x: -89, y: 10}
+        - {x: -90, y: 5}
+        - {x: -90, y: 0}
+        - {x: -90, y: 6}
+        - {x: -100, y: 10}
+        - {x: -120, y: 3}
+        - {x: -120, y: -23}
+        - {x: -15, y: -23}
+        - {x: -15, y: -8}
+        - {x: -16, y: 6}
+      - - {x: 71, y: -15}
+        - {x: 120, y: -5}
+        - {x: 120, y: 23}
+        - {x: -10, y: 23}
+        - {x: -10, y: -13}
+        - {x: -5, y: -15}
+        - {x: 18, y: -15}
+        - {x: 48, y: -11}
+        - {x: 50, y: -9}
+        - {x: 51, y: -13}
+        - {x: 58, y: -15}
+    - name: combo2_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 240
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
