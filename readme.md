@@ -10,7 +10,7 @@ Some of the obstacles our team faced:
 - fine tuning the physics to work correctly (especially the collision detection)
 - making graphic effects show correctly 
 
-Our team ended creating a simple yet challenging game. There's two actions the player can perform, which each use a single button press, and there's only one goal: to accumulate as many points as quickly as possible.
+Our team ended creating a simple yet challenging game. There are two actions the player can perform, each of which uses a single button press, and there's only one goal: to accumulate as many points as quickly as possible.
 
 Divekick was judged by several professional video game developers, and most of the criticism came from the lack enemy variation, unpolished graphics and little end game challenge.
 
