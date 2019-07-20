@@ -16,7 +16,7 @@ Divekick was judged by several professional video game developers, and most of t
 
 However, we received endless praise for a light-hearted game that presents players with simple, yet fun and cohesive game mechanics. 
 
-There's plenty of room for improvement, but for now this project is closed for modification. 
+There's plenty of room for improvement, but for now this project is closed to modification. 
 
 
 ************ TO RUN ************
