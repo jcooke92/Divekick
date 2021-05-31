@@ -12,9 +12,9 @@ Some of the obstacles our team faced:
 
 Our team ended creating a simple yet challenging game. There are two actions the player can perform, each of which uses a single button press, and there's only one goal: to accumulate as many points as quickly as possible.
 
-Divekick was judged by several professional video game developers, and most of the criticism came from the lack enemy variation, unpolished graphics and little end game challenge.
+Divekick was judged by several professional video game developers. Most of the criticism came from the lack enemy variation, unpolished graphics and little end game challenge.
 
-However, we received endless praise for a light-hearted game that presents players with simple, yet fun and cohesive game mechanics. 
+However, we received endless praise for a light-hearted game that presents players with simple yet fun and cohesive game mechanics. 
 
 There's plenty of room for improvement, but for now this project is closed to modification. 
 
