@@ -239,7 +239,7 @@ public class Player : MonoBehaviour
 		GameObject image = null;
 		AudioClip sound = null;
 		float duration = 0f;
-
+		
 		if (chainMulti == 2)
 		{
 			image = comboImages [0];

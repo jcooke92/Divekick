@@ -1,26 +1,45 @@
 fileFormatVersion: 2
 guid: a4bcea7d2de7c2a4f8211c637b9ef849
-timeCreated: 1477862769
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Taxi-Car-sprite-sheet_0
-    21300002: Taxi-Car-sprite-sheet_1
-    21300004: Taxi-Car-sprite-sheet_2
-    21300006: Taxi-Car-sprite-sheet_3
-    21300008: Taxi-Car-sprite-sheet_4
-    21300010: Taxi-Car-sprite-sheet_5
-    21300012: Taxi-Car-sprite-sheet_6
-    21300014: Taxi-Car-sprite-sheet_7
-    21300016: Taxi-Car-sprite-sheet_8
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Taxi-Car-sprite-sheet_0
+  - first:
+      213: 21300002
+    second: Taxi-Car-sprite-sheet_1
+  - first:
+      213: 21300004
+    second: Taxi-Car-sprite-sheet_2
+  - first:
+      213: 21300006
+    second: Taxi-Car-sprite-sheet_3
+  - first:
+      213: 21300008
+    second: Taxi-Car-sprite-sheet_4
+  - first:
+      213: 21300010
+    second: Taxi-Car-sprite-sheet_5
+  - first:
+      213: 21300012
+    second: Taxi-Car-sprite-sheet_6
+  - first:
+      213: 21300014
+    second: Taxi-Car-sprite-sheet_7
+  - first:
+      213: 21300016
+    second: Taxi-Car-sprite-sheet_8
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -29,37 +48,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Taxi-Car-sprite-sheet_0
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_0
       rect:
         serializedVersion: 2
         x: 13
@@ -69,16 +116,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -48, y: 57.5}
-        - {x: -147, y: 15.5}
-        - {x: -147, y: -47.5}
-        - {x: -116, y: -57.5}
-        - {x: 124, y: -57.5}
-        - {x: 147, y: -47.5}
-        - {x: 147, y: 13.5}
-        - {x: 65, y: 57.5}
-    - name: Taxi-Car-sprite-sheet_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_1
       rect:
         serializedVersion: 2
         x: 361
@@ -88,15 +137,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -55.5, y: 57.5}
-        - {x: -146.5, y: 8.5}
-        - {x: -146.5, y: -44.5}
-        - {x: -129.5, y: -57.5}
-        - {x: 146.5, y: -57.5}
-        - {x: 146.5, y: 30.5}
-        - {x: 78.5, y: 57.5}
-    - name: Taxi-Car-sprite-sheet_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_2
       rect:
         serializedVersion: 2
         x: 14
@@ -106,16 +158,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 57}
-        - {x: -134, y: 29}
-        - {x: -147, y: 12}
-        - {x: -147, y: -53}
-        - {x: -137, y: -57}
-        - {x: 147, y: -57}
-        - {x: 147, y: 14}
-        - {x: 63, y: 57}
-    - name: Taxi-Car-sprite-sheet_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_3
       rect:
         serializedVersion: 2
         x: 352
@@ -125,16 +179,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 48.5, y: 57.5}
-        - {x: -24.5, y: 57.5}
-        - {x: -146.5, y: 13.5}
-        - {x: -146.5, y: -48.5}
-        - {x: -142.5, y: -57.5}
-        - {x: 146.5, y: -57.5}
-        - {x: 146.5, y: 10.5}
-        - {x: 135.5, y: 21.5}
-    - name: Taxi-Car-sprite-sheet_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_4
       rect:
         serializedVersion: 2
         x: 18
@@ -144,16 +200,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25.5, y: 57}
-        - {x: -14.5, y: 57}
-        - {x: -146.5, y: 8}
-        - {x: -146.5, y: -57}
-        - {x: 128.5, y: -57}
-        - {x: 142.5, y: -42}
-        - {x: 146.5, y: -38}
-        - {x: 146.5, y: 19}
-    - name: Taxi-Car-sprite-sheet_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_5
       rect:
         serializedVersion: 2
         x: 354
@@ -163,15 +221,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28.5, y: 57.5}
-        - {x: -22.5, y: 57.5}
-        - {x: -146.5, y: 11.5}
-        - {x: -146.5, y: -57.5}
-        - {x: 146.5, y: -57.5}
-        - {x: 146.5, y: 15.5}
-        - {x: 73.5, y: 41.5}
-    - name: Taxi-Car-sprite-sheet_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_6
       rect:
         serializedVersion: 2
         x: 11
@@ -181,16 +242,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 145.5, y: 21}
-        - {x: 55.5, y: 57}
-        - {x: -30.5, y: 57}
-        - {x: -146.5, y: 14}
-        - {x: -146.5, y: -57}
-        - {x: 120.5, y: -57}
-        - {x: 146.5, y: -39}
-        - {x: 146.5, y: 15}
-    - name: Taxi-Car-sprite-sheet_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_7
       rect:
         serializedVersion: 2
         x: 344
@@ -200,16 +263,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 49, y: 57.5}
-        - {x: -19, y: 57.5}
-        - {x: -147, y: 3.5}
-        - {x: -147, y: -53.5}
-        - {x: -129, y: -57.5}
-        - {x: 118, y: -57.5}
-        - {x: 147, y: -47.5}
-        - {x: 147, y: 19.5}
-    - name: Taxi-Car-sprite-sheet_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taxi-Car-sprite-sheet_8
       rect:
         serializedVersion: 2
         x: 14
@@ -219,16 +284,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45.5, y: 57.5}
-        - {x: -146.5, y: 22.5}
-        - {x: -146.5, y: -57.5}
-        - {x: 143.5, y: -57.5}
-        - {x: 146.5, y: -55.5}
-        - {x: 146.5, y: 17.5}
-        - {x: 59.5, y: 57.5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

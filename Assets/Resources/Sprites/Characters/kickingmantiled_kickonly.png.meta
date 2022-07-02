@@ -1,24 +1,39 @@
 fileFormatVersion: 2
 guid: 1087d775bfcf04349b2af78d0fad939c
-timeCreated: 1479146998
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: kickingmantiled_kickonly_0
-    21300002: kickingmantiled_kickonly_1
-    21300004: kickingmantiled_kickonly_2
-    21300006: kickingmantiled_kickonly_3
-    21300008: kickingmantiled_kickonly_4
-    21300010: kickingmantiled_kickonly_5
-    21300012: kickingmantiled_kickonly_6
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kickingmantiled_kickonly_0
+  - first:
+      213: 21300002
+    second: kickingmantiled_kickonly_1
+  - first:
+      213: 21300004
+    second: kickingmantiled_kickonly_2
+  - first:
+      213: 21300006
+    second: kickingmantiled_kickonly_3
+  - first:
+      213: 21300008
+    second: kickingmantiled_kickonly_4
+  - first:
+      213: 21300010
+    second: kickingmantiled_kickonly_5
+  - first:
+      213: 21300012
+    second: kickingmantiled_kickonly_6
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -27,37 +42,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: kickingmantiled_kickonly_0
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_0
       rect:
         serializedVersion: 2
         x: 17
@@ -67,15 +110,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -38, y: 43.5}
-        - {x: -38, y: -38.5}
-        - {x: -34, y: -43.5}
-        - {x: 24, y: -43.5}
-        - {x: 38, y: -33.5}
-        - {x: 38, y: 1.5}
-        - {x: -11, y: 43.5}
-    - name: kickingmantiled_kickonly_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_1
       rect:
         serializedVersion: 2
         x: 145
@@ -85,14 +131,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -6, y: 43.5}
-        - {x: -31, y: 10.5}
-        - {x: -31, y: -34.5}
-        - {x: -18, y: -43.5}
-        - {x: 31, y: -43.5}
-        - {x: 31, y: 43.5}
-    - name: kickingmantiled_kickonly_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_2
       rect:
         serializedVersion: 2
         x: 275
@@ -102,16 +152,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 7.5, y: 51.5}
-        - {x: -33.5, y: 51.5}
-        - {x: -36.5, y: 47.5}
-        - {x: -36.5, y: -29.5}
-        - {x: -18.5, y: -51.5}
-        - {x: 36.5, y: -51.5}
-        - {x: 36.5, y: -27.5}
-        - {x: 22.5, y: 11.5}
-    - name: kickingmantiled_kickonly_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_3
       rect:
         serializedVersion: 2
         x: 384
@@ -121,16 +173,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 56.5}
-        - {x: -45, y: 6.5}
-        - {x: -36, y: -27.5}
-        - {x: 17, y: -56.5}
-        - {x: 45, y: -56.5}
-        - {x: 45, y: -20.5}
-        - {x: 35, y: 28.5}
-        - {x: -3, y: 56.5}
-    - name: kickingmantiled_kickonly_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_4
       rect:
         serializedVersion: 2
         x: 513
@@ -140,17 +194,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 56}
-        - {x: -44.5, y: 15}
-        - {x: -27.5, y: -34}
-        - {x: 12.5, y: -55}
-        - {x: 15.5, y: -56}
-        - {x: 44.5, y: -56}
-        - {x: 44.5, y: -42}
-        - {x: 27.5, y: 25}
-        - {x: -9.5, y: 56}
-    - name: kickingmantiled_kickonly_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_5
       rect:
         serializedVersion: 2
         x: 0
@@ -160,17 +215,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 26}
-        - {x: -31, y: -24}
-        - {x: 16, y: -56}
-        - {x: 45, y: -56}
-        - {x: 45, y: -21}
-        - {x: 33, y: 26}
-        - {x: -4, y: 56}
-        - {x: -41, y: 56}
-        - {x: -45, y: 55}
-    - name: kickingmantiled_kickonly_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kickingmantiled_kickonly_6
       rect:
         serializedVersion: 2
         x: 129
@@ -180,17 +236,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -11, y: 56}
-        - {x: -45, y: 56}
-        - {x: -45, y: 19}
-        - {x: -26, y: -33}
-        - {x: 19, y: -56}
-        - {x: 45, y: -56}
-        - {x: 45, y: -47}
-        - {x: 25, y: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
