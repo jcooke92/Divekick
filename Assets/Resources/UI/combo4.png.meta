@@ -57,6 +57,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -352,6 +353,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      combo4_9: 21300018
+      combo4_1: 21300002
+      combo4_6: 21300012
+      combo4_5: 21300010
+      combo4_8: 21300016
+      combo4_10: 21300020
+      combo4_7: 21300014
+      combo4_2: 21300004
+      combo4_4: 21300008
+      combo4_0: 21300000
+      combo4_3: 21300006
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

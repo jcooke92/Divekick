@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -640,6 +641,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Demeaning Text_19: 21300038
+      Demeaning Text_8: 21300016
+      Demeaning Text_1: 21300002
+      Demeaning Text_3: 21300006
+      Demeaning Text_6: 21300012
+      Demeaning Text_17: 21300034
+      Demeaning Text_12: 21300024
+      Demeaning Text_10: 21300020
+      Demeaning Text_16: 21300032
+      Demeaning Text_0: 21300000
+      Demeaning Text_4: 21300008
+      Demeaning Text_13: 21300026
+      Demeaning Text_18: 21300036
+      Demeaning Text_2: 21300004
+      Demeaning Text_11: 21300022
+      Demeaning Text_20: 21300040
+      Demeaning Text_14: 21300028
+      Demeaning Text_21: 21300042
+      Demeaning Text_15: 21300030
+      Demeaning Text_9: 21300018
+      Demeaning Text_7: 21300014
+      Demeaning Text_5: 21300010
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

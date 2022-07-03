@@ -66,6 +66,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -424,6 +425,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tourist-Man-Sprite-Sheet_8: 21300016
+      Tourist-Man-Sprite-Sheet_7: 21300014
+      Tourist-Man-Sprite-Sheet_2: 21300004
+      Tourist-Man-Sprite-Sheet_4: 21300008
+      Tourist-Man-Sprite-Sheet_6: 21300012
+      Tourist-Man-Sprite-Sheet_12: 21300024
+      Tourist-Man-Sprite-Sheet_10: 21300020
+      Tourist-Man-Sprite-Sheet_11: 21300022
+      Tourist-Man-Sprite-Sheet_13: 21300026
+      Tourist-Man-Sprite-Sheet_9: 21300018
+      Tourist-Man-Sprite-Sheet_1: 21300002
+      Tourist-Man-Sprite-Sheet_5: 21300010
+      Tourist-Man-Sprite-Sheet_0: 21300000
+      Tourist-Man-Sprite-Sheet_3: 21300006
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

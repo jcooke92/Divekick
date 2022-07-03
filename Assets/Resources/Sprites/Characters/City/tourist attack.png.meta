@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -379,6 +380,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tourist attack_10: 21300018
+      tourist attack_4: 21300008
+      tourist attack_2: 21300004
+      tourist attack_12: 21300022
+      tourist attack_1: 21300002
+      tourist attack_3: 21300006
+      tourist attack_8: 21300014
+      tourist attack_11: 21300020
+      tourist attack_9: 21300016
+      tourist attack_0: 21300000
+      tourist attack_13: 21300024
+      tourist attack_7: 21300012
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

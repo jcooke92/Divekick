@@ -60,6 +60,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -292,6 +293,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      jumpingmantiled_5: 21300010
+      jumpingmantiled_6: 21300012
+      jumpingmantiled_4: 21300008
+      jumpingmantiled_11: 21300022
+      jumpingmantiled_7: 21300014
+      jumpingmantiled_8: 21300016
+      jumpingmantiled_9: 21300018
+      jumpingmantiled_10: 21300020
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

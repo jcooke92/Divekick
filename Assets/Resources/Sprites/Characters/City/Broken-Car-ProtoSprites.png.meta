@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -280,6 +281,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Broken-Car-ProtoSprites_5: 21300010
+      Broken-Car-ProtoSprites_7: 21300014
+      Broken-Car-ProtoSprites_3: 21300006
+      Broken-Car-ProtoSprites_2: 21300004
+      Broken-Car-ProtoSprites_1: 21300002
+      Broken-Car-ProtoSprites_6: 21300012
+      Broken-Car-ProtoSprites_0: 21300000
+      Broken-Car-ProtoSprites_4: 21300008
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
