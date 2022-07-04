@@ -78,7 +78,7 @@ public class Enemy : MonoBehaviour
 	void PedestrianDeath()
 	{
 		transform.rotation = Quaternion.Euler(0f, 0f, 90f);
-		Vector2 force = new Vector2(12f, 5f);
+		Vector2 force = new Vector2(15f, 10f);
 		rigidbody.AddForce(force, ForceMode2D.Impulse);
 	}
 
